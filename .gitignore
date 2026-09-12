@@ -1,0 +1,23 @@
+# Executáveis e binários
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.out
+
+# Arquivos temporários e de compilação
+*.lst
+*.lis
+*.cob.c
+*.i
+*.tmp
+*.log
+
+# Pastas de IDEs e editores (como VS Code)
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
